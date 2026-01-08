@@ -76,7 +76,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-                url('data:image/svg+xml,<svg xmlns="images/Screenshot 2025-12-01 at 1.52.08 PM" viewBox="0 0 1200 800"><rect fill="%23EEEEEE" width="1200" height="800"/><text x="600" y="400" text-anchor="middle" font-family="Arial" font-size="24" fill="%23000000">Replace with your cabin hero image</text></svg>');
+                url('data:image/svg+xml,<svg xmlns="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg" viewBox="0 0 1200 800"><rect fill="%23EEEEEE" width="1200" height="800"/><text x="600" y="400" text-anchor="middle" font-family="Arial" font-size="24" fill="%23000000">Replace with your cabin hero image</text></svg>');
     background-size: cover;
     background-position: center;
     display: flex;
